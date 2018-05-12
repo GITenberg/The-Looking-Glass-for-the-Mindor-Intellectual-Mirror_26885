@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '32302'
     url: http://www.gutenberg.org/2009/agents/32302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26885#The-Looking-Glass-for-the-Mindor-Intellectual-Mirror
 gutenberg_issued: '2008-10-12'
 gutenberg_type: Text
 identifiers:
